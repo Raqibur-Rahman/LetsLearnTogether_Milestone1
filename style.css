@@ -37,11 +37,27 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    /* or 162% */
-
-    /* text-align: right; */
-
-    /* Dark 02 */
-
     color: #444343;
+}
+
+.header-btn{
+    border: none;
+    background-color: rgb(228, 155, 21);
+    color:rgb(39, 119, 31); 
+
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+
+    font-family:'Times', serif;
+    /* font-family: 'Work Sans'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 23px;
+    
+
+
+
 }
