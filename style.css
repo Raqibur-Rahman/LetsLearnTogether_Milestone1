@@ -9,9 +9,7 @@
     left: 0px;
     top: 0px;
     
-
     
-
 }
 .header-title{
     position: absolute;
@@ -88,14 +86,10 @@
 .second-page{
     display: flex;
     align-items: center;
-
-    
     width: 1072px;
     height: 723.3px;
-/* 
     left: 206px;
     top: 939px;
-     */
 }
 
 .secondP-paragraph{
