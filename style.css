@@ -1,8 +1,7 @@
 
-.h-class{
+.h-banner{
     
     background-image: url(/images/banner/banner1.png);
-    position: absolute;
     width: 1600px;
     height: 808px;
     left: 0px;
@@ -26,7 +25,6 @@
 
 .header-paragraph{
 
-    /* position: absolute; */
     width: 525px;
     height: 228px;
     left: 845px;
@@ -50,14 +48,14 @@
     left: 1210px;
     top: 578px;
 
-    font-family:'Times', serif;
-    /* font-family: 'Work Sans'; */
+   
+    font-family: 'Work Sans'; 
     font-style: normal;
     font-weight: 600;
     font-size: 25px;
     line-height: 23px;
+    border-radius: 5px;
     
 
-
-
 }
+
