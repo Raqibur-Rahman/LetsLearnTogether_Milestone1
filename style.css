@@ -2,11 +2,16 @@
 .h-banner{
     
     background-image: url(/images/banner/banner1.png);
+
+
     width: 1600px;
     height: 808px;
     left: 0px;
     top: 0px;
     
+
+    
+
 }
 .header-title{
     position: absolute;
@@ -56,6 +61,87 @@
     line-height: 23px;
     border-radius: 5px;
     
+
+}
+
+.tick-color{
+    color: green;
+}
+
+.secondP-heading{
+    /* position: absolute; */
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+.second-page{
+    display: flex;
+    align-items: center;
+
+    
+    width: 1072px;
+    height: 723.3px;
+/* 
+    left: 206px;
+    top: 939px;
+     */
+}
+
+.secondP-paragraph{
+    
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.list{
+
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+ul{
+    padding: 0 0 0 0;
+}
+ul li{
+    margin: 0 0;
+}
+
+.second-page-img{
+
+    
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
 
 }
 
